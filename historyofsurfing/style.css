@@ -1,0 +1,26 @@
+body{
+  background-image: url(http://i1.mirror.co.uk/incoming/article6427845.ece/ALTERNATES/s615/Kim-Jong-UnMAIN.jpg);
+  width: 100%;
+  background-size: 100%;
+
+}
+.title{
+  font-family: 'Indie Flower', cursive;
+  color: yellow;
+  margin: 5%;
+}
+
+.para{
+  color: orange;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.pic{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 5%;
+  border-color: purple;
+
+}
+
